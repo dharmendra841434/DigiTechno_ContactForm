@@ -1,0 +1,9 @@
+com/digitechno/MainActivity.java
+ com.digitechno.MainActivity
+com/digitechno/BuildConfig.java
+ com.digitechno.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/digitechno/MainApplication.java
+ com.digitechno.MainApplication
+ com.digitechno.MainApplication$1

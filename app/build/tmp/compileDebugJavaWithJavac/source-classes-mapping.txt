@@ -1,0 +1,14 @@
+com/digitechno/MainActivity.java
+ com.digitechno.MainActivity
+com/digitechno/BuildConfig.java
+ com.digitechno.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/digitechno/ReactNativeFlipper.java
+ com.digitechno.ReactNativeFlipper
+ com.digitechno.ReactNativeFlipper$1
+ com.digitechno.ReactNativeFlipper$2
+ com.digitechno.ReactNativeFlipper$2$1
+com/digitechno/MainApplication.java
+ com.digitechno.MainApplication
+ com.digitechno.MainApplication$1

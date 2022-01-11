@@ -1,0 +1,4 @@
+#Tue Jan 11 16:23:13 IST 2022
+base.0=C\:\\Users\\dhruv\\OneDrive\\Desktop\\Android Apps\\DigiTechno\\android\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
